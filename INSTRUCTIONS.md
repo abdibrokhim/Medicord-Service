@@ -1,6 +1,6 @@
-# BrAIn MRI Backend API
+# Medicord Backend Service
 
-`Note:` Make sure you have already checked BrAIn MRI App [here](https://github.com/abdibrokhim/BrAIn-MRI-App). if you haven't, please check it first then come back here again.
+`Note:` Make sure you have already checked Medicord App [here](https://github.com/abdibrokhim/Medicord). if you haven't, please check it first then come back here again.
 
 ## 🚀 Getting Started
 
@@ -13,12 +13,12 @@
 ### 📦 Clone the repository
 
 ```bash
-git clone https://github.com/abdibrokhim/BrAIn-MRI-App-Api
+git clone https://github.com/abdibrokhim/Medicord-Service.git
 ```
 
 ### 📂 Go to the project directory
 ```
-cd BrAIn-MRI-App-Api
+cd Medicord-Service
 ```
 
 ### 🌐 Create a virtual environment
